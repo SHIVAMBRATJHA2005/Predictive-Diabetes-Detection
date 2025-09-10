@@ -17,9 +17,9 @@ A full-stack machine learning pipeline for predicting diabetes risk based on hea
 
 ---
 
-## 🚀 Live App
+## 🚀 Production
 
-Try the deployed version here 👉 [Diabetes Risk Predictor App](https://diabetes-indicator.streamlit.app/)
+The project is deployed using streamlit https://diabetes-detection-model.streamlit.app
 
 ---
 
@@ -40,7 +40,7 @@ Try the deployed version here 👉 [Diabetes Risk Predictor App](https://diabete
 
 ---
 
-## 👥 Authors
+## 👥 Contributors
 
 This project was developed by:
 
